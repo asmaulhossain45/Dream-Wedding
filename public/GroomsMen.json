@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "full_name": "John Smith",
+    "work": "Software Developer",
+    "picture": "https://i.ibb.co/6JSfBMS/1.jpg",
+    "facebook": "https://www.facebook.com/johnsmith",
+    "twitter_link": "https://www.twitter.com/johnsmith",
+    "instagram_link": "https://www.instagram.com/johnsmith",
+    "linkedin_link": "https://www.linkedin.com/in/johnsmith"
+  },
+  {
+    "id": "2",
+    "full_name": "Michael Johnson",
+    "work": "Accountant",
+    "picture": "https://i.ibb.co/CJNmb3v/2.jpg",
+    "facebook": "https://www.facebook.com/michaeljohnson",
+    "twitter_link": "https://www.twitter.com/michaeljohnson",
+    "instagram_link": "https://www.instagram.com/michaeljohnson",
+    "linkedin_link": "https://www.linkedin.com/in/michaeljohnson"
+  },
+  {
+    "id": "3",
+    "full_name": "David Williams",
+    "work": "Marketing Manager",
+    "picture": "https://i.ibb.co/VmnmKfb/3.jpg",
+    "facebook": "https://www.facebook.com/davidwilliams",
+    "twitter_link": "https://www.twitter.com/davidwilliams",
+    "instagram_link": "https://www.instagram.com/davidwilliams",
+    "linkedin_link": "https://www.linkedin.com/in/davidwilliams"
+  },
+  {
+    "id": "4",
+    "full_name": "Andrew Davis",
+    "work": "Graphic Designer",
+    "picture": "https://i.ibb.co/NN0Xgzd/4.jpg",
+    "facebook": "https://www.facebook.com/andrewdavis",
+    "twitter_link": "https://www.twitter.com/andrewdavis",
+    "instagram_link": "https://www.instagram.com/andrewdavis",
+    "linkedin_link": "https://www.linkedin.com/in/andrewdavis"
+  }
+]

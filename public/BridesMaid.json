@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "full_name": "Sarah Johnson",
+    "work": "Teacher",
+    "picture": "https://i.ibb.co/6Z7gNg0/3.jpg",
+    "facebook_link": "https://www.facebook.com/sarahjohnson",
+    "twitter_link": "https://www.twitter.com/sarahjohnson",
+    "instagram_link": "https://www.instagram.com/sarahjohnson",
+    "linkedin_link": "https://www.linkedin.com/in/sarahjohnson"
+  },
+  {
+    "id": "2",
+    "full_name": "Emily Davis",
+    "work": "Nurse",
+    "picture": "https://i.ibb.co/XS1N0cm/4.jpg",
+    "facebook_link": "https://www.facebook.com/emilydavis",
+    "twitter_link": "https://www.twitter.com/emilydavis",
+    "instagram_link": "https://www.instagram.com/emilydavis",
+    "linkedin_link": "https://www.linkedin.com/in/emilydavis"
+  },
+  {
+    "id": "3",
+    "full_name": "Jessica Miller",
+    "work": "Marketing Specialist",
+    "picture": "https://i.ibb.co/JBdShkc/1.jpg",
+    "facebook_link": "https://www.facebook.com/jessicamiller",
+    "twitter_link": "https://www.twitter.com/jessicamiller",
+    "instagram_link": "https://www.instagram.com/jessicamiller",
+    "linkedin_link": "https://www.linkedin.com/in/jessicamiller"
+  },
+  {
+    "id": "4",
+    "full_name": "Maria Garcia",
+    "work": "Graphic Designer",
+    "picture": "https://i.ibb.co/s9LVRNy/2.jpg",
+    "facebook_link": "https://www.facebook.com/mariagarcia",
+    "twitter_link": "https://www.twitter.com/mariagarcia",
+    "instagram_link": "https://www.instagram.com/mariagarcia",
+    "linkedin_link": "https://www.linkedin.com/in/mariagarcia"
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "id": 1,
+    "title": "Food and Drinks",
+    "price": "$600 - $6000",
+    "picture": "https://i.ibb.co/dP5MpD7/Food.png",
+    "description": "Experience exquisite catering and beverage services that will delight your guests.",
+    "varieties": [
+      {
+        "title": "Buffet",
+        "id": 101,
+        "description": "A variety of dishes served buffet-style, perfect for guests with diverse tastes. Our buffet includes an array of appetizers, main courses, and desserts, ensuring there's something for everyone to enjoy.",
+        "picture": "https://i.ibb.co/vv74nLr/Buffet.jpg",
+        "price": "$1000"
+      },
+      {
+        "title": "Plated Dinner",
+        "id": 102,
+        "description": "Indulge in an elegant plated dinner service tailored to your preferences. Our culinary team will craft a personalized menu, and each course will be a culinary masterpiece.",
+        "picture": "https://i.ibb.co/0ZpK0Gk/Plate-Dinner.jpg",
+        "price": "$1200"
+      },
+      {
+        "title": "Cocktail Hour",
+        "id": 103,
+        "description": "Kick off your event with handcrafted cocktails and delightful finger foods. Our mixologists will create signature cocktails, and our hors d'oeuvres selection is designed to please the palate.",
+        "picture": "https://i.ibb.co/z2891zH/Coctail-Hour.jpg",
+        "price": "$800"
+      },
+      {
+        "title": "Dessert Bar",
+        "id": 104,
+        "description": "Satisfy every sweet tooth with our delectable dessert bar. From decadent cakes to bite-sized treats, our dessert selection is a dessert lover's dream.",
+        "picture": "https://i.ibb.co/nPjr7xP/Dessert-Bar.jpg",
+        "price": "$600"
+      },
+      {
+        "title": "Food Trucks",
+        "id": 105,
+        "description": "Add a trendy twist to your event with food trucks offering diverse cuisine options. From gourmet burgers to international street food, our food trucks cater to all tastes.",
+        "picture": "https://i.ibb.co/9nRFDMt/Food-Trucks.jpg",
+        "price": "$900"
+      },
+      {
+        "title": "Open Bar",
+        "id": 106,
+        "description": "Raise a toast with unlimited drinks and skilled bartenders crafting your favorite cocktails. Our open bar offers a wide selection of beverages, including premium spirits and signature cocktails.",
+        "picture": "https://i.ibb.co/n7R2nc9/Open-Bar.jpg",
+        "price": "$1500"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Music and Entertainment",
+    "price": "$600 - $3900",
+    "picture": "https://i.ibb.co/RHsZyBL/music.png",
+    "description": "Elevate your event with live music and entertainment that will create unforgettable moments.",
+    "varieties": [
+      {
+        "title": "Live Band",
+        "id": 201,
+        "description": "Experience the magic of live music with a talented band covering your favorite songs. Our live band creates an unforgettable atmosphere and engages the audience with their incredible performance.",
+        "picture": "https://i.ibb.co/dG28tHH/Live-Band.jpg",
+        "price": "$1200"
+      },
+      {
+        "title": "DJ",
+        "id": 202,
+        "description": "Get the party started with a skilled DJ curating your music playlist. Our DJs have a vast collection of tracks, and they can adapt the music to suit your preferences and keep the dance floor alive.",
+        "picture": "https://i.ibb.co/SXjrS18/DJ.jpg",
+        "price": "$1000"
+      },
+      {
+        "title": "Magician",
+        "id": 203,
+        "description": "Witness mind-boggling tricks and illusions performed by a captivating magician. Our magician's performance is not just magic; it's a journey of wonder and astonishment.",
+        "picture": "https://i.ibb.co/hC82g0K/Magician.jpg",
+        "price": "$800"
+      },
+      {
+        "title": "Photo Booth",
+        "id": 204,
+        "description": "Capture fun memories with a photo booth featuring props for playful poses. Our photo booth provides guests with instant photo prints, creating lasting keepsakes of your event.",
+        "picture": "https://i.ibb.co/bJ7bGQb/Photo-Booth.webp",
+        "price": "$600"
+      },
+      {
+        "title": "Fire Dancers",
+        "id": 205,
+        "description": "Add excitement with mesmerizing fire dancing performances. Our fire dancers combine artistry and skill to create a thrilling and visually stunning show.",
+        "picture": "https://i.ibb.co/5YpfNZm/Fire-Dancers.jpg",
+        "price": "$700"
+      },
+      {
+        "title": "Hypnotist",
+        "id": 206,
+        "description": "Experience the intriguing world of hypnotism with a captivating hypnotist show. Our hypnotist will entertain and astonish your guests with mind-bending feats.",
+        "picture": "https://i.ibb.co/jyMpTpH/Hypnotist.jpg",
+        "price": "$600"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Photography and Videography",
+    "price": "$450 - $4850",
+    "picture": "https://i.ibb.co/YPHW4Fd/Camera.png",
+    "description": "Capture every moment with professional event photography and videography services.",
+    "varieties": [
+      {
+        "title": "Photography",
+        "id": 301,
+        "description": "High-quality event photography capturing candid and posed moments. Our photographers have a keen eye for detail, ensuring that every emotion and expression is beautifully preserved.",
+        "picture": "https://i.ibb.co/QQ8hk9X/Photography.png",
+        "price": "$700"
+      },
+      {
+        "title": "Videography",
+        "id": 302,
+        "description": "Create lasting memories with expertly crafted event videography. Our videographers use state-of-the-art equipment to produce cinematic videos that capture the essence of your event.",
+        "picture": "https://i.ibb.co/k0p4Wm0/Photography.jpg",
+        "price": "$900"
+      },
+      {
+        "title": "Drone Photography",
+        "id": 303,
+        "description": "Capture breathtaking aerial shots from above with drone photography. Our drones provide unique perspectives and stunning vistas, adding an extra dimension to your memories.",
+        "picture": "https://i.ibb.co/Q6yWTdP/Drone-Photography.webp",
+        "price": "$1200"
+      },
+      {
+        "title": "Photo Album",
+        "id": 304,
+        "description": "Treasure your memories in a beautifully designed photo album. Our custom-designed albums are a work of art, preserving your cherished moments in a tangible format.",
+        "picture": "https://i.ibb.co/hcr1tKq/Photo-Album.webp",
+        "price": "$450"
+      },
+      {
+        "title": "Event Highlights Video",
+        "id": 305,
+        "description": "Relive the magic with a concise and captivating highlights video of your event. Our highlights video is a dynamic recap that encapsulates the essence of your special day.",
+        "picture": "https://i.ibb.co/f2t4b9Z/Event-Highlights-Video.jpg",
+        "price": "$1000"
+      },
+      {
+        "title": "Green Screen Photography",
+        "id": 306,
+        "description": "Have fun with green screen photography and choose custom backgrounds for your photos. Our green screen technology allows for creative and personalized photo experiences.",
+        "picture": "https://i.ibb.co/PmNpt54/Green-Screen-Photography.jpg",
+        "price": "$600"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Decoration and Flowers",
+    "price": "$500 - $5800",
+    "picture": "https://i.ibb.co/tK7rW4k/Decoration.png",
+    "description": "Transform your venue with stunning decorations and floral arrangements perfect.",
+    "varieties": [
+      {
+        "title": "Flower Arrangements",
+        "id": 401,
+        "description": "Elevate your event with exquisite floral centerpieces and decor. Our floral arrangements are designed to complement your theme and add a touch of natural beauty to your venue.",
+        "picture": "https://i.ibb.co/HDtZ6x4/Flower-Arrangements.jpg",
+        "price": "$700"
+      },
+      {
+        "title": "Venue Decoration",
+        "id": 402,
+        "description": "Create an ambiance that suits your event's theme with elegant venue decorations. Our decorations include lighting, drapery, and thematic elements that transform your space into a work of art.",
+        "picture": "https://i.ibb.co/wRSmg5k/Venue-Decoration.jpg",
+        "price": "$1500"
+      },
+      {
+        "title": "Balloon Decor",
+        "id": 403,
+        "description": "Infuse a playful spirit into your event with colorful balloon decorations. Our balloon decor adds a sense of fun and festivity to any occasion.",
+        "picture": "https://i.ibb.co/6vxDR7y/Balloon-Decor.jpg",
+        "price": "$500"
+      },
+      {
+        "title": "Candlelit Ambiance",
+        "id": 404,
+        "description": "Set a romantic mood with candlelit decorations, providing a warm and intimate atmosphere. Our candlelit decor adds a touch of enchantment to your event.",
+        "picture": "https://i.ibb.co/XLZdVnv/Candlelit-Ambiance.jpg",
+        "price": "$900"
+      },
+      {
+        "title": "Themed Decor",
+        "id": 405,
+        "description": "Customize your decor to match your event's theme and bring your vision to life. Our themed decor creates a cohesive and immersive experience for your guests.",
+        "picture": "https://i.ibb.co/5KDZvHG/Themed-Decor.jpg",
+        "price": "$1200"
+      },
+      {
+        "title": "LED Light Installations",
+        "id": 406,
+        "description": "Add a modern touch with vibrant LED light installations that create a visually striking environment. Our LED light installations are customizable and can transform any space.",
+        "picture": "https://i.ibb.co/nk7H5Xh/LED-Light-Installations.jpg",
+        "price": "$1000"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Invitations and Stationery",
+    "price": "$50 - $1000",
+    "picture": "https://i.ibb.co/jDFqQJN/Invotation.png",
+    "description": "Let's make perfect your event with custom-designed invitations and stationery.",
+    "varieties": [
+      {
+        "title": "Invitations",
+        "id": 501,
+        "description": "Make a lasting impression with personalized event invitations tailored to match your theme. Our invitations are meticulously designed and crafted with attention to detail.",
+        "picture": "https://i.ibb.co/Wszccc4/Invitations-Card.jpg",
+        "price": "$300"
+      },
+      {
+        "title": "Stationery",
+        "id": 502,
+        "description": "Complete the look with coordinated stationery and signage for a polished touch. Our stationery sets the stage for a cohesive and elegant event.",
+        "picture": "https://i.ibb.co/xFwW7M5/Stationery.webp",
+        "price": "$200"
+      },
+      {
+        "title": "Calligraphy",
+        "id": 503,
+        "description": "Add an elegant and timeless touch with meticulously crafted calligraphy services. Our calligraphy adds a personal and sophisticated flourish to your event.",
+        "picture": "https://i.ibb.co/Z65QnmF/Calligraphy.jpg",
+        "price": "$200"
+      },
+      {
+        "title": "Digital Invitations",
+        "id": 504,
+        "description": "Go digital with stylish and convenient digital invitations, perfect for online events. Our digital invitations are both eco-friendly and customizable.",
+        "picture": "https://i.ibb.co/YTpWVQp/Digital-Invitations.jpg",
+        "price": "$150"
+      },
+      {
+        "title": "Wax Seals",
+        "id": 505,
+        "description": "Impress with classic wax seals, adding a touch of tradition to your envelopes and stationery. Our wax seals exude elegance and sophistication.",
+        "picture": "https://i.ibb.co/ZxbhrV6/Wax-Seals.jpg",
+        "price": "$50"
+      },
+      {
+        "title": "Custom Maps",
+        "id": 506,
+        "description": "Guide your guests with custom-designed event maps, both practical and stylish. Our custom maps are a functional and decorative addition to your event.",
+        "picture": "https://i.ibb.co/DCGK3FH/Custom-Maps.jpg",
+        "price": "$100"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Makeup and Beauty",
+    "price": "$50 - $1550",
+    "picture": "https://i.ibb.co/NFzf3G7/Makeup.png",
+    "description": "Enhance your natural radiance with professional makeup and beauty services.",
+    "varieties": [
+      {
+        "title": "Bridal Makeup",
+        "id": 601,
+        "description": "Feel like a queen on your special day with flawless bridal makeup that complements your style. Our bridal makeup artists create a look that enhances your natural beauty.",
+        "picture": "https://i.ibb.co/s6pYHy7/Bridal-Makeup.webp",
+        "price": "$300"
+      },
+      {
+        "title": "Bridal Party Makeup",
+        "id": 602,
+        "description": "Ensure your bridal party looks their best with professional makeup for a cohesive look. Our makeup artists tailor the makeup to suit each member of your bridal party.",
+        "picture": "https://i.ibb.co/hckjtQQ/Bridal-Party-Makeup.jpg",
+        "price": "$700"
+      },
+      {
+        "title": "Hairstyling",
+        "id": 603,
+        "description": "Complete your look with elegant and lasting hairstyles crafted by our skilled hairstylists. Our hairstylists create hairstyles that complement your overall appearance.",
+        "picture": "https://i.ibb.co/t2f0wqD/Hairstyling.webp",
+        "price": "$150"
+      },
+      {
+        "title": "Airbrush Makeup",
+        "id": 604,
+        "description": "Achieve a flawless and long-lasting look with airbrush makeup for a smooth finish. Our airbrush makeup ensures your makeup stays perfect throughout your event.",
+        "picture": "https://i.ibb.co/T1584x1/Airbrush-Makeup.jpg",
+        "price": "$250"
+      },
+      {
+        "title": "Manicure and Pedicure",
+        "id": 605,
+        "description": "Polish your look with manicure and pedicure services for perfect nails. Our nail technicians ensure your hands and feet are impeccably groomed.",
+        "picture": "https://i.ibb.co/8KfqDsB/Manicure-and-Pedicure.jpg",
+        "price": "$100"
+      },
+      {
+        "title": "Tattoo Cover-Up",
+        "id": 606,
+        "description": "Conceal tattoos discreetly with our cover-up services for your special day. Our makeup artists use specialized techniques to conceal tattoos effectively.",
+        "picture": "https://i.ibb.co/pKq3GXT/Tattoo-Cover-Up.jpg",
+        "price": "$50"
+      }
+    ]
+  }
+]

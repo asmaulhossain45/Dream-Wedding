@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "bride_name": "Emily Johnson",
+      "groom_name": "Daniel Smith",
+      "bride_description": "Emily is a passionate artist who loves painting landscapes. She met Daniel, a software engineer, at a local art gallery, and they instantly connected over their shared love for art and travel.",
+      "groom_description": "Daniel is a tech-savvy professional with a knack for photography. He's always up for an adventure and was drawn to Emily's creativity and adventurous spirit.",
+      "bride_picture": "emily_picture.jpg",
+      "groom_picture": "daniel_picture.jpg"
+    },
+    {
+      "id": 2,
+      "bride_name": "Sophia Rodriguez",
+      "groom_name": "Liam Wilson",
+      "bride_description": "Sophia is a dedicated nurse who finds joy in helping others. Liam, an environmental scientist, shares her passion for making the world a better place, and they met while volunteering for a local environmental cleanup project.",
+      "groom_description": "Liam is an outdoor enthusiast who loves hiking and camping. He was captivated by Sophia's caring nature and her commitment to making a positive impact on the environment.",
+      "bride_picture": "sophia_picture.jpg",
+      "groom_picture": "liam_picture.jpg"
+    },
+    {
+      "id": 3,
+      "bride_name": "Olivia Brown",
+      "groom_name": "William Anderson",
+      "bride_description": "Olivia is a talented chef who owns a popular restaurant in Sydney. William, a marine biologist, has a deep appreciation for the ocean, and they bonded over their love for food and marine conservation.",
+      "groom_description": "William is a marine biologist who spends his days researching and protecting the ocean's ecosystems. He was drawn to Olivia's culinary skills and her dedication to sustainability.",
+      "bride_picture": "olivia_picture.jpg",
+      "groom_picture": "william_picture.jpg"
+    },
+    {
+      "id": 4,
+      "bride_name": "Ava Martinez",
+      "groom_name": "James Thompson",
+      "bride_description": "Ava is a fashion designer known for her elegant and timeless designs. James, a literature professor, shares her love for art and culture, and they met at a book launch event.",
+      "groom_description": "James is a literature professor with a passion for classic literature and poetry. He was charmed by Ava's creativity and her ability to turn fabric into works of art.",
+      "bride_picture": "ava_picture.jpg",
+      "groom_picture": "james_picture.jpg"
+    },
+    {
+      "id": 5,
+      "bride_name": "Mia Harris",
+      "groom_name": "Benjamin Davis",
+      "bride_description": "Mia is an adventurous travel blogger who explores the world one destination at a time. Benjamin, a wildlife photographer, shares her love for wildlife and photography, and they crossed paths during a photography expedition.",
+      "groom_description": "Benjamin is a talented wildlife photographer who spends his time capturing the beauty of nature. He was inspired by Mia's passion for travel and her ability to tell compelling stories through her blog.",
+      "bride_picture": "mia_picture.jpg",
+      "groom_picture": "benjamin_picture.jpg"
+    },
+    {
+      "id": 6,
+      "bride_name": "Ella Wilson",
+      "groom_name": "Lucas White",
+      "bride_description": "Ella is a successful entrepreneur who owns a tech startup. Lucas, a software engineer, was intrigued by Ella's drive and innovative ideas, and they connected at a tech conference.",
+      "groom_description": "Lucas is a brilliant software engineer who enjoys building cutting-edge technology. He admired Ella's entrepreneurial spirit and her determination to make a difference in the tech industry.",
+      "bride_picture": "ella_picture.jpg",
+      "groom_picture": "lucas_picture.jpg"
+    }
+  ]
