@@ -11,7 +11,6 @@
 
 ## Live Link:
 
-- [Dream Wedding](https://65243f2bd92124177f8d2a7e--lovely-cuchufli-c522e0.netlify.app/)
+- [Dream Wedding](https://dream-wedding-asmaul-hossain.netlify.app/)
 
 
-(https://65243f2bd92124177f8d2a7e--lovely-cuchufli-c522e0.netlify.app/)
